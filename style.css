@@ -1,0 +1,15 @@
+body {
+    background-color: lightblue;
+    font-family: Verdana;
+  }
+  
+  input {
+    color: black;
+    font-size: 15px;
+    font-family: sans-serif;
+    background-color: lightgreen;
+    padding: 5px;
+    border-radius: 5px;
+    border-color: darkgrey;
+  }
+  
